@@ -5,8 +5,12 @@ For the code, it's not too complicated
 For Use"
 
   install the Addon
+  
+  Add a separate collection to house the many new objecs (Organization is important)
+  
+  Move object that you want to edit into said collection
  
-  Select an object (only something that can use the Array Modifier)
+  Select said object (only something that can use the Array Modifier)
 
   Press f3 and search "Rij Array"
 
